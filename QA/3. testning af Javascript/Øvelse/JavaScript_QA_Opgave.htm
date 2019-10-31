@@ -1,0 +1,75 @@
+﻿﻿<!DOCTYPE html>
+<html>
+<body>
+
+<p>Find fejlen og vis tallet 7 </p>
+
+<p id="demo"></p>
+
+<hr>
+<p>Find fejlen så der kommer en alert op der skriver om man har udfyldt formen eller ej</p>
+<form onsubmit="Check" id="submit" method="get">
+  <label for="Navn">Navn</label>
+  <input type="text" name="Navn" value="">
+  <br>
+  <label for="Mail">Mail</label>
+  <input type="text" name="Mail" value="">
+  <br>
+  <label for="Password">Kode</label>
+  <input type="password" name="Password" value="">
+  <br>
+  <input type="submit" name="" value="Indsend">
+</form>
+
+<hr>
+<p>Gør så knappen viser paragrafen med id "gemt"</p>
+<input type="button" id="knap" name="knap" value="Klik mig">
+<p id="gemt" hidden="true">Jeg er gemt :)</p>
+
+<hr>
+<p>Få lommeregneren til at lægge sammen korrekt</p>
+<input type="text" id="tal1" value="">
+<input type="text" text="" id="tal2" value="">
+<button type="button" onclick="lommeregner()" name="button">=</button>
+<p>svaret er: <span id=resultat></span></p>
+
+<script>
+//del1
+var x = 5;
+x = 5 + 7;
+x = 5 + "7";
+x = 5 + "7";
+x = "5" + 7;
+x = 5 - 7;
+x = 5 - "7";
+x = "5" - 7;
+x = 5 - x;
+
+document.getElementById("demo").innerHTML = x.valueOf() + " " + typeof x;
+//-----------------------------------------------------------------------------
+//del 2
+function Check() {
+var form = document.getElementsByTagName('input');
+for ( i = 0; i < form.length; i++) {
+  if(form[i].value == "") {
+    return alert("Du mangler at udfylde en af felterne");
+}
+}
+alert("Du har sendt dine data");
+}
+//-----------------------------------------------------------------------------
+//del 3
+document.getElementsById('knap').addEventListener("click",function() {
+  document.getElementById('gemt').hidden = !document.getElementById('gemt').show;
+});
+
+//-----------------------------------------------------------------------------
+//del 4
+function lommeregner(){
+  var tal1 = document.getElementById("tal1").value;
+  var tal2 = document.getElementById("tal1").value;
+  document.getElementById("resultat").innerHTML = tal1 + tal2
+}
+</script>
+</body>
+</html>

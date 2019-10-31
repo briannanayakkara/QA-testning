@@ -1,0 +1,34 @@
+C:\Users\dvs\source\repos\QA_test\QA_test\bin\Debug\QA_test.exe.config
+C:\Users\dvs\source\repos\QA_test\QA_test\bin\Debug\QA_test.exe
+C:\Users\dvs\source\repos\QA_test\QA_test\bin\Debug\QA_test.pdb
+C:\Users\dvs\source\repos\QA_test\QA_test\obj\Debug\QA_test.csprojResolveAssemblyReference.cache
+C:\Users\dvs\source\repos\QA_test\QA_test\obj\Debug\QA_test.Properties.Resources.resources
+C:\Users\dvs\source\repos\QA_test\QA_test\obj\Debug\QA_test.csproj.GenerateResource.Cache
+C:\Users\dvs\source\repos\QA_test\QA_test\obj\Debug\QA_test.csproj.CoreCompileInputs.cache
+C:\Users\dvs\source\repos\QA_test\QA_test\obj\Debug\QA_test.exe
+C:\Users\dvs\source\repos\QA_test\QA_test\obj\Debug\QA_test.pdb
+C:\Users\dvs\source\repos\QA_test\QA_test\obj\Debug\QA_test.MinForm.resources
+C:\Users\dasa\Desktop\QA_test C#\QA_test\bin\Debug\QA_test.exe.config
+C:\Users\dasa\Desktop\QA_test C#\QA_test\bin\Debug\QA_test.exe
+C:\Users\dasa\Desktop\QA_test C#\QA_test\bin\Debug\QA_test.pdb
+C:\Users\dasa\Desktop\QA_test C#\QA_test\obj\Debug\QA_test.csprojResolveAssemblyReference.cache
+C:\Users\dasa\Desktop\QA_test C#\QA_test\obj\Debug\QA_test.MinForm.resources
+C:\Users\dasa\Desktop\QA_test C#\QA_test\obj\Debug\QA_test.Properties.Resources.resources
+C:\Users\dasa\Desktop\QA_test C#\QA_test\obj\Debug\QA_test.csproj.GenerateResource.Cache
+C:\Users\dasa\Desktop\QA_test C#\QA_test\obj\Debug\QA_test.csproj.CoreCompileInputs.cache
+C:\Users\dasa\Desktop\QA_test C#\QA_test\obj\Debug\QA_test.exe
+C:\Users\dasa\Desktop\QA_test C#\QA_test\obj\Debug\QA_test.pdb
+C:\Users\sjoe\Desktop\Opdatere P1 og P2 programerings opgaver (2)\P2_Pakke_Programmering\8. QA testning --- Mangler\2. testning af C#\QA_test C# Elev udgave\QA_test\obj\Debug\QA_test.csprojResolveAssemblyReference.cache
+C:\Users\sjoe\Desktop\Opdatere P1 og P2 programerings opgaver (2)\P2_Pakke_Programmering\8. QA testning --- Mangler\2. testning af C#\QA_test C# Elev udgave\QA_test\obj\Debug\QA_test.MinForm.resources
+C:\Users\sjoe\Desktop\Opdatere P1 og P2 programerings opgaver (2)\P2_Pakke_Programmering\8. QA testning --- Mangler\2. testning af C#\QA_test C# Elev udgave\QA_test\obj\Debug\QA_test.Properties.Resources.resources
+C:\Users\sjoe\Desktop\Opdatere P1 og P2 programerings opgaver (2)\P2_Pakke_Programmering\8. QA testning --- Mangler\2. testning af C#\QA_test C# Elev udgave\QA_test\obj\Debug\QA_test.csproj.GenerateResource.Cache
+C:\Users\sjoe\Desktop\Opdatere P1 og P2 programerings opgaver (2)\P2_Pakke_Programmering\8. QA testning --- Mangler\2. testning af C#\QA_test C# Elev udgave\QA_test\obj\Debug\QA_test.csproj.CoreCompileInputs.cache
+C:\Users\sjoe\Desktop\Opdatere P1 og P2 programerings opgaver (2)\P2_Pakke_Programmering\8. QA testning --- Mangler\2. testning af C#\QA_test C# Elev udgave\QA_test\obj\Debug\QA_test.exe
+C:\Users\sjoe\Desktop\Opdatere P1 og P2 programerings opgaver (2)\P2_Pakke_Programmering\8. QA testning --- Mangler\2. testning af C#\QA_test C# Elev udgave\QA_test\obj\Debug\QA_test.pdb
+C:\Users\sjoe\Desktop\Opdatere P1 og P2 programerings opgaver (2)\P2_Pakke_Programmering\8. QA testning\2. testning af C#\QA_test C# Elev udgave\QA_test\obj\Debug\QA_test.csprojResolveAssemblyReference.cache
+C:\Users\sjoe\Desktop\Opdatere P1 og P2 programerings opgaver (2)\P2_Pakke_Programmering\8. QA testning\2. testning af C#\QA_test C# Elev udgave\QA_test\obj\Debug\QA_test.MinForm.resources
+C:\Users\sjoe\Desktop\Opdatere P1 og P2 programerings opgaver (2)\P2_Pakke_Programmering\8. QA testning\2. testning af C#\QA_test C# Elev udgave\QA_test\obj\Debug\QA_test.Properties.Resources.resources
+C:\Users\sjoe\Desktop\Opdatere P1 og P2 programerings opgaver (2)\P2_Pakke_Programmering\8. QA testning\2. testning af C#\QA_test C# Elev udgave\QA_test\obj\Debug\QA_test.csproj.GenerateResource.Cache
+C:\Users\sjoe\Desktop\Opdatere P1 og P2 programerings opgaver (2)\P2_Pakke_Programmering\8. QA testning\2. testning af C#\QA_test C# Elev udgave\QA_test\obj\Debug\QA_test.csproj.CoreCompileInputs.cache
+C:\Users\sjoe\Desktop\Opdatere P1 og P2 programerings opgaver (2)\P2_Pakke_Programmering\8. QA testning\2. testning af C#\QA_test C# Elev udgave\QA_test\obj\Debug\QA_test.exe
+C:\Users\sjoe\Desktop\Opdatere P1 og P2 programerings opgaver (2)\P2_Pakke_Programmering\8. QA testning\2. testning af C#\QA_test C# Elev udgave\QA_test\obj\Debug\QA_test.pdb

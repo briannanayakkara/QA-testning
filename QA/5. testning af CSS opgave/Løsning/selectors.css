@@ -1,0 +1,64 @@
+/* Giv <body> elementet en baggrund af #bdc3c7*/
+body{
+  background: #bdc3c7;
+}
+
+/* lav <h1> elementets farve #9b59b6*/
+h1{
+  color: #9b59b6;
+}
+
+/* lav alle <h2> elementernes farve orange */
+h2{
+  color: orange;
+}
+
+/* lav alle <li> elementerne blå*/
+li{
+  color: #2010fa;
+}
+
+/*Ændre baggrunden på alle paragrapher til at være grå*/
+p{
+  background: Gray;
+
+}
+/*gør så alle indputs har en kant på 3px og som er rød*/
+input{
+  border: 3px solid red;
+}
+
+/* gør så alt med klassen hello har en baggrund i white*/
+.hello{
+  background: white;
+}
+
+/* gør så paragraphen med id'et special har en kant på 2px i blå(Skal bruge Rød Grøn Blå værdier)*/
+#special{
+  border: 2px solid rgb(0, 40, 234);
+}
+
+/*Gør så alle paragraph inde i en div har en font størrelse på 25 px*/
+
+div p{
+  font-size: 25px;
+}
+/*Gør så alle input felter af typen text har baggrundsfarven grå*/
+input[type="text"]{
+  background: gray;
+}
+
+/*Gør så alle input felter af typen checkbox får en margin venstre på 50 pixels når den er hakket af */
+input[type="checkbox"]:checked{
+  margin-left: 50px;
+}
+
+/* lav alle labels til blokbogstaver uden at ændre html*/
+label{
+  text-transform: uppercase;
+}
+
+/*gør så alle h1 ændre farve til blå når den er peget på med musen */
+h1:hover{
+  color: blue;
+}

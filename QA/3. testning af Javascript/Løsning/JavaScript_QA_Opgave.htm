@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<body>
+
+<p>Find fejlen og vis tallet 7 </p>
+
+<p id="demo"></p>
+
+<hr>
+<p>Find fejlen så der kommer en alert op der skriver om man har udfyldt formen eller ej</p>
+<form onsubmit="Check()" id="submit" method="get">
+  <label for="Navn">Navn</label>
+  <input type="text" name="Navn" value="">
+  <br>
+  <label for="Mail">Mail</label>
+  <input type="text" name="Mail" value="">
+  <br>
+  <label for="Password">Kode</label>
+  <input type="password" name="Password" value="">
+  <br>
+  <input type="submit" name="" value="Indsend">
+</form>
+
+<hr>
+<p>Gør så knappen viser paragrafen med id "gemt"</p>
+<input type="button" id="knap" name="knap" value="Klik mig">
+<p id="gemt" hidden="true">Jeg er gemt :)</p>
+
+<hr>
+<p>Få lommeregneren til at lægge sammen korrekt</p>
+<input type="text" id="tal1" value="">
+<input type="text" text="" id="tal2" value="">
+<button type="button" onclick="lommeregner()" name="button">=</button>
+<p>svaret er: <span id=resultat></span></p>
+
+<script src="JavaScript_QA_Opgave.js"></script>
+</body>
+</html>
